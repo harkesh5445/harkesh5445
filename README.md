@@ -1,82 +1,101 @@
-# 💫 About Me:
+# 💫 About Me
 
 🌟 Welcome to My GitHub!  
-Hi, I’m **Harsh Solanki**, a passionate and results-driven **React Native Developer** with over **3+ years of professional experience** crafting high-performance mobile applications. I thrive on turning ideas into sleek, scalable, and user-friendly digital products.
+I’m **Harikesh Kumar**, a highly motivated **Full-Stack PHP Developer** with **4+ years of experience** building scalable and high-performance web applications. I specialize in backend development using **Laravel, CodeIgniter & Core PHP**, and delivering user-friendly interfaces with modern frontend tools.
 
-My core focus is mobile development using **React Native**, but I also work across the full stack, using modern technologies and tools to bring complete solutions to life — from backend logic to pixel-perfect UIs.
+I love solving real-world problems through clean architecture, secure APIs, and optimized performance — delivering reliable solutions from planning to deployment.
 
 ---
 
 ## 🎯 Who Am I?
 
-I'm a builder, a problem solver, and a lifelong learner. Whether it's building consumer-facing apps or scalable business platforms, I strive for clean code, excellent performance, and meaningful user experiences.
-
-I believe in:
-- ⚡ Fast iteration with high code quality
-- 🧠 Continuous learning and innovation
-- 🤝 Collaborating with teams and stakeholders
-- 🎯 Delivering real-world impact through tech
+- Backend-focused full-stack developer
+- Passionate about performance & security
+- Love to collaborate and build innovative products
+- Always exploring modern tech & cloud solutions
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+### 🚀 Backend / Core
+- PHP (Core + OOP), Laravel, CodeIgniter
+- MySQL, MongoDB
+- REST APIs, Authentication & Authorization
+- Payment Gateway Integration (Razorpay, PayPal, etc.)
 
----
+### 🎨 Frontend
+- HTML5, CSS3, JavaScript, jQuery, AJAX
+- Bootstrap & Responsive UI Design
 
-## 💡 Technologies I Love Working With
+### ☁️ Cloud & DevOps
+- AWS (EC2, S3, Route 53)
+- Git & GitHub, Linux Servers
+- Postman, VS Code
 
-**• Mobile:**  
-React Native (Expo & CLI), Redux, Zustand, React Query, Firebase, Native Modules
-
-**• Backend:**  
-Node.js, Express.js, MongoDB, REST APIs, Firebase Functions
-
-**• Frontend:**  
-React.js, TypeScript, Next.js, Tailwind CSS
-
-**• Tools & DevOps:**  
-Git, GitHub Actions, Docker, VS Code, Figma, Postman, Android Studio, Xcode
-
-**• Others:**  
-Push Notifications, Deep Linking, Payment Integration, Performance Optimization
+### 🔄 Additional Capabilities
+- API Integration (Social Media / Third Party)
+- PDF & Image Processing Tools
+- Deployment & Server Management
 
 ---
 
-## 🚀 What I’m Currently Up To
+## 🚀 What I’m Working On
 
-- ⚙️ Building production-grade React Native apps for startups and clients
-- 🧪 Experimenting with advanced state management using Zustand + Jotai
-- 🌐 Exploring serverless architecture and backendless workflows
-- 📱 Improving app performance & accessibility across devices
-- 💼 Mentoring junior developers and contributing to open-source libraries
-
----
-
-## 🌟 My Core Values as a Developer
-
-- **Innovation:** Constantly exploring new tools and frameworks
-- **Efficiency:** Clean, maintainable, and scalable code is a must
-- **Reliability:** I prioritize stability and performance in everything I build
-- **User-Centric Design:** I believe great apps are built with the end-user in mind
+- Developing scalable Laravel applications
+- Optimizing backend performance & database architecture
+- Upgrading skills in React, Node.js & MongoDB
+- Managing deployments on AWS
 
 ---
 
-## 🤝 Let’s Connect!
+## 🏅 Professional Experience
 
-I'm always open to new opportunities, collaborations, and ideas.  
-Feel free to reach out!
+**Regenesys**  
+*PHP Developer — Dec 2024 – Present | New Delhi, India*  
+- Building secure, production-grade PHP applications  
+- API development & performance enhancements  
 
-- 💼 [LinkedIn](www.linkedin.com/in/harshsolanki05)
-- 📧 Email: dev.harshsolanki5@gmail.com
+**TechFerry**  
+*Full-Stack PHP Developer — Jul 2023 – Dec 2024 | Noida, India*  
+- Built web platforms using Laravel, CodeIgniter & MySQL  
+- Integrated payment gateways & cloud services  
+
+**Vega6 Webware Technologies Pvt. Ltd**  
+*PHP Developer — Apr 2022 – Jul 2023 | Noida, India*  
+- Developed scalable features in CodeIgniter  
+- DB management & UI improvements  
+
+**Webvirtue Software Solutions**  
+*PHP & Laravel Developer — Jan 2022 – Mar 2022 | Lucknow, India*  
+- Worked on e-commerce modules & backend enhancements  
 
 ---
+
+## 🎓 Education
+
+**B.Tech — Information Technology**  
+AKTU (2017 – 2022)
+
+---
+
+## 🌟 Core Values
+
+- 🧠 Continuous learning
+- 🎯 Reliable delivery
+- 🔐 Security-first mindset
+- ⚡ Clean & scalable code
+
+---
+
+## 🤝 Contact Details
+
+📍 Noida, Uttar Pradesh, India  
+📞 **7235029541**  
+📧 **harkesh5445@gmail.com**  
+🔗 LinkedIn: **www.linkedin.com/in/harikeshkumar-448833204**
+
+---
+
+### Thanks for visiting! 🚀  
+✨ Let’s build something awesome together.
